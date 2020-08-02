@@ -1,0 +1,16 @@
+{
+  "name": "fossil-engine",
+  "version": "1.0.0",
+  "description": "Text-Based Adventure Game Engine written in TypeScript",
+  "main": "index.js",
+  "scripts": { },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScriptFossil/fossil-engine.git"
+  },
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ScriptFossil/fossil-engine/issues"
+  },
+  "homepage": "https://github.com/ScriptFossil/fossil-engine#readme"
+}
